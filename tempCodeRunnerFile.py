@@ -1,0 +1,1 @@
+comment = comment_block.text.strip() if comment_block else "Pas de commentaire" # type: ignore
